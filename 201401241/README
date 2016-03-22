@@ -59,7 +59,11 @@ Keyboard:
  c - toggle cube rotation
  p - toggle pyramid rotation
  q - quit
+ Movement as per the arrow keys
+ To change view: Top view: 't'
+                 Tower view: 'v'
 
 Mouse:
  Left click - Change Pyramid rotation direction
  Right click - Change the vector about which Cube rotates
+I intend to implement adevnture view(camera behind the player), helicopter view(follow the player from above)
