@@ -52,6 +52,11 @@ It is recommended to use GLFW+GLAD+GLM on all OSes.
 FreeGLUT+GLEW+GLM can be used only on linux but not recommended.
 Use apt-get to install FreeGLUT, libglew, glm on Linux.
 
+To run the code --> Goto 201401241/GLUT. The actual code is a cpp code and use 
+" sudo g++ -o sample2D Sample_GL3_2D.cpp -lGL -lGLU -lGLEW -lglut -lm -lsfml-audio" ( sudo is required on my machine) to compile and then
+run the executable ./sample2D
+
+
 ----------------------------------------------------------------
 DEMO CONTROLS
 ----------------------------------------------------------------
